@@ -10,7 +10,9 @@ div {
 
 
 /* ADD SELECTOR HERE */
-{
+
+
+h2 {
 	box-shadow: 0px 0px 10px #333;
 	margin-top: 24px;
 	padding: 48px;
